@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'SurVis Literature Collection';
+var title = 'Classification and Segmentation of Legumes';
 
 /**
  * Relative path to the data directory
@@ -54,8 +54,8 @@ var editable = true;
  * @type {{html: string, id: string}}
  */
 var paper = {
-    html: 'Sample literature collection for <b><a href="http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/eurovis14-star.pdf" target="_blank">SurVis</a></b>',
-    id: 'Beck2016Visual'
+    html: 'Sample literature collection for <b><a href="https://www.mdpi.com/2624-7402/6/1/48" target="_blank">classification of beans</a></b>',
+    id: 'ibarra2024performance'
 };
 
 /**
